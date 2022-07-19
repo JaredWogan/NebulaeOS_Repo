@@ -36,7 +36,7 @@ echo ################################################################
 echo          Pushing changes to the remote repository...
 echo ################################################################
 echo.
-git push -u origin master
+git push -fu origin master
 
 echo ################################################################
 echo ###################    Git Push Done      ######################
